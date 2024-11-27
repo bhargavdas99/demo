@@ -42,7 +42,7 @@ THis is color code for GREEN `#00ff00`
 
 # PICTURE DISPLAY
 <picture>
-  <img src= "https://source.unsplash.com/random/?"> </img>
+  <img src= "https://source.unsplash.com/random/?">
 </picture>
 
 
