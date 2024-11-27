@@ -5,17 +5,29 @@ This is not bold
 - *This is very important* <- all italic
 - ***This is very cool*** <- bold and italic<br>
 and so on...
-
+<br>
 
 # HEADING 
 ## This is Line 1
 ### THis is line 2
+<br>
+
 
 # UNORDERED LIST
 - this is line 1
 - this is line 2
-  
+<br>
+# ORDERED LIST
+1. Item 1
+2. Item 2
+3. Item 3
+<br>
+# TASK LIST
+- [] Task 1
+- [] Task 2
+- [x] Task 3
 
+<br>
 # HOW TO EMBED LINKS
 This is the [link](https://github.com/bhargavdas99?tab=repositories) to my REPO.
 
@@ -23,7 +35,7 @@ This is the [link](https://github.com/bhargavdas99?tab=repositories) to my REPO.
 # HOW TO USE QUOTE TEXT
  ## This is normal text.
  > This is quoted text.
-
+<br>
 
 # HOW TO QUOTE CODE
 ## Simple quote
@@ -35,15 +47,19 @@ This is the [link](https://github.com/bhargavdas99?tab=repositories) to my REPO.
   sum(a,b)
   return 0
   ```
+<br>
+
 
 # COLOR CODE
 THis is color code for GREEN `#00ff00`
-
+<br>
 
 # PICTURE DISPLAY
 <picture>
 <img src="https://www.pawlovetreats.com/cdn/shop/articles/pembroke-welsh-corgi-puppy_600x.jpg?v=1628638716" alt="dogo" />
 </picture>
+<br>
+
 
 ## [BACK TO TOP](#myTop)
 
