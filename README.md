@@ -41,7 +41,7 @@ This is the [link](https://github.com/bhargavdas99?tab=repositories) to my REPO.
 </picture>
 
 
-# [BACK TO TOP](#myTop)
+## [BACK TO TOP](#myTop)
 
 
 
