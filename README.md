@@ -1,4 +1,4 @@
-<a name = "top"> # HEADING </a>
+<a name = "myTop"> # HEADING </a>
 # This is Line 1
 ## THis is line 2
 
@@ -40,7 +40,7 @@ This is the [link](https://github.com/bhargavdas99?tab=repositories) to my REPO.
 </picture>
 
 
-# [BACK TO TOP](top)
+# [BACK TO TOP](#myTop)
 
 
 
