@@ -30,7 +30,7 @@ This is the [link](https://github.com/bhargavdas99?tab=repositories) to my REPO.
 
 
 # COLOR CODE
-> THis is color code for GREEN `#00ff00`
+> THis is color code for GREEN `#0969DA`
 
 
 # PICTURE DISPLAY
