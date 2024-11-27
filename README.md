@@ -1,4 +1,12 @@
 <a name = "myTop"> </a>
+# BOLD AND ITALIC
+This is not bold
+**This is bold** <- all bold
+*This is very important* <- all italic
+***This is very cool*** <- bold and italic
+and so on...
+
+
 # HEADING 
 ## This is Line 1
 ### THis is line 2
@@ -28,16 +36,13 @@ This is the [link](https://github.com/bhargavdas99?tab=repositories) to my REPO.
   return 0
   ```
 
-
 # COLOR CODE
 THis is color code for GREEN `#00ff00`
 
 
 # PICTURE DISPLAY
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/25423296/163456776-7f95b81a-f1ed-45f7-b7ab-8fa810d529fa.png">
-  <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
-  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
+  <img src= "https://source.unsplash.com/random/?"> </img>
 </picture>
 
 
