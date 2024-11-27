@@ -1,6 +1,7 @@
-<a name = "myTop"> # HEADING </a>
-# This is Line 1
-## THis is line 2
+<a name = "myTop"> </a>
+# HEADING 
+## This is Line 1
+### THis is line 2
 
 # UNORDERED LIST
 - this is line 1
