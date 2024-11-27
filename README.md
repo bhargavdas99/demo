@@ -41,9 +41,7 @@ THis is color code for GREEN `#00ff00`
 
 
 # PICTURE DISPLAY
-<picture>
-  <img src= "https://source.unsplash.com/random/?" alt="random image">
-</picture>
+<img src="https://source.unsplash.com/random/?" alt="Random image from Unsplash" />
 
 
 ## [BACK TO TOP](#myTop)
