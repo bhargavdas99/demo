@@ -1,9 +1,9 @@
 <a name = "myTop"> </a>
 # BOLD AND ITALIC
 This is not bold
-**This is bold** <- all bold
-*This is very important* <- all italic
-***This is very cool*** <- bold and italic
+- **This is bold** <- all bold
+- *This is very important* <- all italic
+- ***This is very cool*** <- bold and italic
 and so on...
 
 
