@@ -42,7 +42,7 @@ THis is color code for GREEN `#00ff00`
 
 # PICTURE DISPLAY
 <picture>
-<img src="https://cdn.britannica.com/79/232779-050-6B0411D7/German-Shepherd-dog-Alsatian.jpg" alt="dogo" />
+<img src="https://www.pawlovetreats.com/cdn/shop/articles/pembroke-welsh-corgi-puppy_600x.jpg?v=1628638716" alt="dogo" />
 </picture>
 
 ## [BACK TO TOP](#myTop)
