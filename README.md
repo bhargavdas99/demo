@@ -16,15 +16,16 @@ and so on...
 # UNORDERED LIST
 - this is line 1
 - this is line 2
-<br>
+  
 # ORDERED LIST
 1. Item 1
 2. Item 2
 3. Item 3
-<br>
+
+
 # TASK LIST
-- [] Task 1
-- [] Task 2
+- [ ] Task 1
+- [ ] Task 2
 - [x] Task 3
 
 <br>
