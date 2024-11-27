@@ -10,7 +10,6 @@ and so on...
 # HEADING 
 ## This is Line 1
 ### THis is line 2
-<br>
 
 
 # UNORDERED LIST
@@ -61,6 +60,27 @@ THis is color code for GREEN `#00ff00`
 </picture>
 <br>
 
+# ALERTS
+> [!NOTE]
+> Useful information that users should know, even when skimming content.
+
+> [!TIP]
+> Helpful advice for doing things better or more easily.
+
+> [!IMPORTANT]
+> Key information users need to know to achieve their goal.
+
+> [!WARNING]
+> Urgent info that needs immediate user attention to avoid problems.
+
+> [!CAUTION]
+> Advises about risks or negative outcomes of certain actions.
+
+# NESTED LIST
+- First line
+  - Second 1
+  - Second 2 
+    - Third Line
 
 ## [BACK TO TOP](#myTop)
 
