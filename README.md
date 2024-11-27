@@ -9,7 +9,7 @@ and so on...
 
 # HEADING 
 ## This is Line 1
-### THis is line 2
+### THis is line 2 <br>
 
 
 # UNORDERED LIST
@@ -40,7 +40,7 @@ This is the [link](https://github.com/bhargavdas99?tab=repositories) to my REPO.
 
 
 # HOW TO USE QUOTE TEXT
- ## This is normal text.
+ This is normal text.
  > This is quoted text.
 <br>
 
@@ -55,6 +55,14 @@ This is the [link](https://github.com/bhargavdas99?tab=repositories) to my REPO.
   return 0
   ```
 <br>
+
+
+# FOOTNOTES
+Basic footnote[^1]<br>
+Basic footnote part 2[^2]
+
+[^1]: This is the reference to the footnote. <!-- This will always appear at the bottom of the page -->
+[^2]: This is the reference to the second footnote.
 
 
 # COLOR CODE
@@ -83,13 +91,6 @@ THis is color code for GREEN `#00ff00`
 > [!CAUTION]
 > Advises about risks or negative outcomes of certain actions.
 
-
-# FOOTNOTES
-Basic footnote[^1]
-Basic footnote part 2[^2]
-
-[^1]: This is the reference to the footnote. <!-- This will always appear at the bottom of the page -->
-[^2]: This is the reference to the second footnote.
 
 ## [BACK TO TOP](#myTop)
 
