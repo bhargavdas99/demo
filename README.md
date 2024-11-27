@@ -27,6 +27,13 @@ and so on...
 - [ ] Task 2
 - [x] Task 3
 
+# NESTED LIST
+- First line
+  - Second 1
+  - Second 2 
+    1. Third Line
+    2. Third Second
+
 <br>
 # HOW TO EMBED LINKS
 This is the [link](https://github.com/bhargavdas99?tab=repositories) to my REPO.
@@ -76,11 +83,13 @@ THis is color code for GREEN `#00ff00`
 > [!CAUTION]
 > Advises about risks or negative outcomes of certain actions.
 
-# NESTED LIST
-- First line
-  - Second 1
-  - Second 2 
-    - Third Line
+
+# FOOTNOTES
+Basic footnote[^1]
+Basic footnote part 2[^2]
+
+[^1]: This is the reference to the footnote. <!-- This will always appear at the bottom of the page -->
+[^2]: This is the reference to the second footnote.
 
 ## [BACK TO TOP](#myTop)
 
